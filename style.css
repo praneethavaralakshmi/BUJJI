@@ -1,0 +1,18 @@
+h1{
+    font-style: italic;
+    letter-spacing: 15px;
+}
+h2{color:white;
+    font-style:initial;
+    letter-spacing: 3px;
+    background-color:rgb(20, 134, 20);
+    text-align: center;
+
+}
+ul{
+font-weight: bold;
+color:maroon;
+text-transform: uppercase;
+line-height: 35px;
+text-decoration: dotted underline;
+}
